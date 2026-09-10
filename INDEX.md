@@ -3,6 +3,7 @@
 
 ## Files
 - `README.md` — alfred-voicepacks
+- `STATUS.md` — alfred-voicepacks — Status
 - `hello-mike.tar.gz`
 - `rt.tgz`
 - `say-9fe9204cb6ac30838eb2682dbb38b9dc.tar.gz`
@@ -13,4 +14,4 @@
 - `say-e54859f13cc3c7a8.tar.gz`
 - `say-e54859f13cc3c7a8.tar.gz.ogg`
 
-_0 subfolders, 10 files._
+_0 subfolders, 11 files._
