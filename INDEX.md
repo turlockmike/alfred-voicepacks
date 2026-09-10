@@ -6,6 +6,8 @@
 - `STATUS.md` — alfred-voicepacks — Status
 - `hello-mike.tar.gz`
 - `rt.tgz`
+- `say-181eb5dad27165b3.tar.gz`
+- `say-181eb5dad27165b3.tar.gz.ogg`
 - `say-9fe9204cb6ac30838eb2682dbb38b9dc.tar.gz`
 - `say-a91f8fee78e8a356.tar.gz`
 - `say-a91f8fee78e8a356.tar.gz.ogg`
@@ -14,4 +16,4 @@
 - `say-e54859f13cc3c7a8.tar.gz`
 - `say-e54859f13cc3c7a8.tar.gz.ogg`
 
-_0 subfolders, 11 files._
+_0 subfolders, 13 files._
