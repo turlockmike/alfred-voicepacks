@@ -55,10 +55,14 @@
 - `say-a91f8fee78e8a356.tar.gz.ogg`
 - `say-b00a57a4295e0155.tar.gz`
 - `say-b00a57a4295e0155.tar.gz.ogg`
+- `say-b8fcd7326c92071d.tar.gz`
+- `say-b8fcd7326c92071d.tar.gz.ogg`
 - `say-be132c2a6317429e.tar.gz`
 - `say-be132c2a6317429e.tar.gz.ogg`
 - `say-c6a7a625f0a48c01.tar.gz`
 - `say-c6a7a625f0a48c01.tar.gz.ogg`
+- `say-cf79811b0f0700af.tar.gz`
+- `say-cf79811b0f0700af.tar.gz.ogg`
 - `say-e341e86a8effc712.tar.gz`
 - `say-e341e86a8effc712.tar.gz.ogg`
 - `say-e54859f13cc3c7a8.tar.gz`
@@ -72,4 +76,4 @@
 - `say-fdd35ad019a22cd0.tar.gz`
 - `say-fdd35ad019a22cd0.tar.gz.ogg`
 
-_0 subfolders, 69 files._
+_0 subfolders, 73 files._
